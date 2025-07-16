@@ -119,8 +119,7 @@ main section{
 .about{
     border-radius: 10px;
     padding: 130px 150px;
-    text-align: center;
-    
+    text-align: center;   
 }
 
 .about-items{
@@ -155,7 +154,6 @@ gap: 24px;
 }
 .resume hr{
     margin: 30px 5px;
-
 }
 
 .resume-download-cv{
@@ -174,8 +172,7 @@ footer{
     gap: 100px;
 }
 .footer-column{
-    width: 50%;
-    
+    width: 50%;   
 }
 footer input[type="text"], footer input[type="email"], footer textarea{
     height: 64px;
